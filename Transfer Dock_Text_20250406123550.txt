@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Itihas Darshan</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Itihas Darshan</h1>
+    </header>
+    <main>
+        <h2>स्वागत है!</h2>
+        <p>यहां आप रोचक ऐतिहासिक लेख और दुर्लभ डॉक्यूमेंट्रीज़ पा सकते हैं।</p>
+    </main>
+    <footer>
+        <p>&copy; 2025 Itihas Darshan</p>
+    </footer>
+</body>
+</html>
